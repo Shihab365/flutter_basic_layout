@@ -4,5 +4,5 @@ Flutter basic layout understanding app
 
 ## Screenshot 
 <div align="center">
-    <img src="/f1.jpg" width="400px" height="600px"</img> 
+    <img src="/f1.png" width="400px" height="600px"</img> 
 </div>
