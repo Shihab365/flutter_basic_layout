@@ -3,4 +3,6 @@
 Flutter basic layout understanding app
 
 ## Screenshot 
-![Screenshot](f1.png)
+<div align="center">
+    <img src="f1.jpg" width="400px" height="600px"</img> 
+</div>
